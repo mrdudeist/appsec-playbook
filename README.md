@@ -52,7 +52,7 @@ appsec-iam-playbook/
 
 ## 📂 Example Guide
 
-[🔹 AppSec Guide: TLS Hardening and Cipher Suite Remediation](guides/tls_hardening_guide.md)  
+[🔹 AppSec Guide: TLS Hardening and Cipher Suite Remediation](cases/tls_hardening_guide.md)  
 A structured approach for securely disabling legacy TLS versions and weak cipher suites  
 while maintaining system stability and audit compliance.
 
